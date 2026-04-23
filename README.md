@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> سهران في ليلك وانتي معايا
+> نظرة عيونك تشعل هوايا
+> تعالي في حضني وننسى العذاب
+> يا أحلى نسمة تفتح لي باب
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
