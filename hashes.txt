@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Eshk El Arab
+
+This log tracks the cryptographic history and versioning for the song **Eshk El Arab** (eshk-el-arab).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:32:09.359316 | `v1` | `47ea00e10edf21b248662871400ea00f5e8859cdc89eb3830a24424858231727` | `8c0802bd4462f5ccd5a0f232f461484e2070b19b3c6321f826febd7e554e7d96` | `2026-05-09_eshk-el-arab-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
